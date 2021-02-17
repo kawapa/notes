@@ -3,7 +3,7 @@
 - [1. Planowanie i wyznaczanie celów](#1-planowanie-i-wyznaczanie-celów)
 - [2. Manifest rzemiosła programistycznego](#2-manifest-rzemiosła-programistycznego)
 
-Celem książki jest zaprezentowanie czytelnikowi rozwiązań na typowe problemy przed jakimi staje młody programista chcący zaplanować swoją swoją naukę.
+Celem książki jest zaprezentowanie czytelnikowi rozwiązań na typowe problemy przed jakimi staje młody programista chcący zaplanować swoją naukę.
 
 ## 1. Planowanie i wyznaczanie celów
 
