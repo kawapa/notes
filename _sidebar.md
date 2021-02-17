@@ -1,4 +1,4 @@
-* [**Home**](/)
+* [Home](/)
 * **Linux**
 * **Programowanie**
   * [CMake](programowanie/cmake.md)
