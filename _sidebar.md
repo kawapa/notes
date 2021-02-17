@@ -1,2 +1,2 @@
-* [Home](/)
-* [Książki](ksiazki.md)
+[Home](/)
+[Książki](ksiazki.md)
