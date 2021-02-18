@@ -1,3 +1,3 @@
 # Wiki
 
-Proba czy dziala 2
+Proba czy dziala 3
